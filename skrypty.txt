@@ -1,0 +1,37 @@
+Rhino:
+**dodawanie**
+c = a+b
+result.setText(c)
+
+**odejmowanie**
+c = a-b
+result.setText(c)
+
+**dzielenie**
+c = a/b
+result.setText(c)
+
+**mno¿enie**
+c = a*b
+result.setText(c)
+
+JRuby:
+
+**potêgowanie**
+c = a**b
+result.setText(c.to_s)
+
+**mno¿enie**
+c = a*b
+result.setText(c.to_s)
+
+**dzielenie**
+c = a/b
+result.setText(c.to_s)
+
+**dodawanie**
+c = a+b
+result.setText(c.to_s)
+
+
+
